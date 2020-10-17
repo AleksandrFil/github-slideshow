@@ -2,5 +2,6 @@
 layout: 
 slidetitle: "Welcome to our second slide!"
 ---
-Your text
+#### This is first message!
+<My name is Aleksandr, I study Git!
 Use the left arrow to go back!
